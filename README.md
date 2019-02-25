@@ -4,4 +4,4 @@ Using the stationary distribution of a transition matrix of an MDP (Markov Decis
 
 <br/>
 
-This notebook was done as a project for the [Machine Learning](https://www.edx.org/course/machine-learning) on [edx](https://www.edx.org/).
+This notebook was done as a project for the [Machine Learning](https://www.edx.org/course/machine-learning) course on [edx](https://www.edx.org/).
